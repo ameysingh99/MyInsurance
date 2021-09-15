@@ -1,0 +1,3 @@
+class Policy{
+	void details(){}
+}
